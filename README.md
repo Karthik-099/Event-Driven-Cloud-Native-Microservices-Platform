@@ -508,22 +508,3 @@ kubectl rollout restart deployment/order-service -n microservices
 14. **Event Sourcing**: Implement event sourcing pattern
 15. **CQRS**: Separate read and write models
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes with meaningful messages
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-MIT License
-
-## Contact
-
-For questions or support, please open an issue in the repository.
-
----
-
-**Built with ❤️ using modern cloud-native technologies**
